@@ -102,3 +102,4 @@ Saída
 <https://pyimagesearch.com/2021/04/05/opencv-face-detection-with-haar-cascades/>
 
 <https://github.com/rmnicola/m6-ec-encontro6>
+
